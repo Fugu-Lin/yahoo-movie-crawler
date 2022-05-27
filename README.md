@@ -33,3 +33,6 @@
   python example.py
   ```
   即可自動執行並上傳資料至你的firebase
+  
+  ![image](https://user-images.githubusercontent.com/53990453/170728961-9c7b1860-e31d-4ab8-9ee0-3716f9f56f7f.png)
+
